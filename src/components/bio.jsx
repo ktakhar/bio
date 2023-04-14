@@ -2,7 +2,7 @@ import Image from './images/kt.jpg'
 
 export default function Bio() {
     return (
-        <div>
+        <div className="container-fluid">
             <div className="main-container">
                 <div className="title-container">
                     <h1 className="title">Kuljit Kaur Takhar</h1>
